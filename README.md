@@ -55,8 +55,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrsalmankamboh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrsalmankamboh&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrsalmankamboh&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrsalmankamboh&layout=compact&theme=dark)
 
 ---
 
