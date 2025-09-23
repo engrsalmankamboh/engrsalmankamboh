@@ -5,7 +5,7 @@
 🔭 Currently building: **Tik2Pay** (multi-vendor invoicing & subscription platform)  
 🌱 Exploring: Advanced multi-tenant SaaS architectures & scalable billing systems  
 💬 Ask me about: Laravel, REST APIs, Payment Gateways, OAuth 2.0, React  
-📫 Reach me: **engr.salmankamboh@gmail.com** | 📞 [Call me](tel:+923113900961)
+📫 Reach me: **engr.salmankamboh@gmail.com** | 📞 +92 311 3900961
 🌐 Portfolio: [GitHub Projects](https://github.com/engrsalmankamboh)  
 
 ---
