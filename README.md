@@ -14,6 +14,8 @@
 
 I build scalable web applications, SaaS platforms, REST APIs and payment systems with PHP, Laravel, React and Next.js, and I lead the developers who ship them. My recent work centres on payments: invoicing, checkout, recurring billing and gateway integrations. I also build with LLM APIs, RAG pipelines and workflow automation.
 
+Based in Karachi, Pakistan.
+
 ---
 
 ## Tech Stack
@@ -81,18 +83,40 @@ I build scalable web applications, SaaS platforms, REST APIs and payment systems
 
 ## Experience
 
-**Nexnology** (formerly Http200) | Aug 2022 to present
-Full Stack Software Engineer and Team Lead
+**Nexnology (Pvt.) Ltd** (formerly Http200) | Karachi | Aug 2022 to present
 
-- Lead development on payment, checkout and SaaS products
-- Own solution planning, requirement clarification, integrations and release coordination
-- Set coding standards and mentor the developers on the team
+*Full Stack Software Engineer and Team Lead* | Oct 2023 to present
+- Lead a development team building SaaS and payment products with Laravel, MySQL, React and Next.js
+- Work spans merchant payment platforms, Shopify apps and AI features such as RAG pipelines and agent workflows
+- Own solution planning and release coordination, and mentor developers
 
-**Bharmal Systems Designers** | Nov 2020 to Jul 2022
-Sr. PHP/Laravel Developer
+*Sr. PHP/Laravel Developer and Team Lead* (as Http200) | Nov 2022 to Oct 2023
+- Directed the software development lifecycle across multiple projects
+- Set coding standards and best practices, and mentored the development team
+- Led architecture and design decisions across backend and frontend systems
 
-- Built and maintained Laravel applications and APIs
-- Delivered inventory management, financial accounting, school management and property management systems
+*Senior Software Engineer* | Aug 2022 to Jun 2025
+- Led development of web applications using PHP (Laravel and Lumen), JavaScript and Vue.js
+- Architected backend systems, integrated APIs and improved performance
+- Worked with PostgreSQL, MySQL, JWT, WordPress custom plugins and themes
+
+**Dream Beyond Technologies** | Karachi | Apr 2021 to Jul 2022
+*Software Engineer*
+- Built backend APIs for mobile applications
+- Designed a complete employee management backend: geolocation attendance within a 10 metre radius, automated in and out timing, real-time location logging, salary and attendance integration, and role based access control
+
+**Bharmal Systems Designers** | Karachi | Nov 2020 to Jul 2022
+*Sr. PHP/Laravel Developer*
+- Developed and maintained PHP applications and RESTful APIs
+- Worked with UI/UX teams to improve interfaces and application performance
+
+**Network Edge Academy** | Hyderabad | Mar 2018 to Jan 2019
+*Web Designing and Development Instructor*
+- Taught PHP and web development through real-world projects
+
+**Tando Allahyar Institute of Information and Technology** | Mar 2016 to Dec 2016
+*Web Designing and Development and Graphic Designing Instructor*
+- Trained students in web design, front-end technologies and graphic design tools
 
 ---
 
@@ -127,9 +151,11 @@ Sr. PHP/Laravel Developer
 
 ## Education
 
-- BS Computer Science, University of Sindh Jamshoro (2018)
-- Web Designing and Development, TIICT (2014)
-- C and C++ Programming, TIICT (2014)
+- **BS Computer Science**, University of Sindh, Jamshoro | 2015 to 2018
+- **CCNA, Computer Systems Networking and Telecommunications**, Network Edge Academy | Aug 2017 to Dec 2017
+- **C and C++ Programming**, Tando Allahyar Institute of Information and Communication Technology | Mar 2016 to May 2016
+- **Web Designing and Development**, Tando Allahyar Institute of Information and Communication Technology | Aug 2015 to Feb 2016
+- **H.S.C. II (Class 12)** and **S.S.C. II (Class 10)**, Hyderabad Board of Intermediate and Secondary Education
 
 ---
 
